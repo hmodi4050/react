@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@500&display=swap');
+
+#containerDiv{
+   display: flex;
+   margin-bottom: 100px;
+  } 
+#cardsDiv{
+  display: inline-block;
+  margin: 30px;
+  padding: 10px;
+  position: relative;
+  left: 130px;
+}
+#userCard{
+    margin-top: 40px;
+    width: 230px;
+    height: 350px;
+    box-shadow: rgb(119, 136, 153) 10px 10px 10px ;  
+}
+img{
+    background-image: url(../img/person.jpg);
+    background-size: cover;
+    width: 230px;
+    height: 210px; 
+}
+#userCard:hover{
+    box-shadow: rgb(93, 235, 204) 20px 15px 20px ;
+}
+h2{
+    border-bottom: black 1px solid;
+    width: 98%;
+    font-family:'Josefin Sans', sans-serif;
+}
+h5{
+    font-size: 12px;
+    color: rgb(145, 145, 145);
+}
+h5 .icon{
+    font-size: 18px;
+    color: crimson;
+}
+h6{
+    position: relative;
+    bottom: 10px;
+    font-size: 10px;
+    color: cornflowerblue;
+}
+h6 .icon{
+   color: cornflowerblue;
+   font-size: 16px;
+}
+#sideBar{
+     position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+}
+.logOut{
+   position: relative;
+   left:  94%;
+   margin-bottom: 5px; 
+   text-decoration: none;
+   background-color: rgb(247, 35, 77);
+   color: white;
+   top: 5px;
+}
+.logOut .logOutIcon{
+    width: 19px;
+    height: 14px;
+}
+.logOut:hover{
+    background-color: rgb(223, 27, 67);
+}

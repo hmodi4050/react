@@ -1,0 +1,39 @@
+#nav{
+    background-color: rgb(98, 0, 255);
+    border: rgb(98, 0, 255) 1px solid;
+    height: 60px;
+    position: relative;
+    bottom: 10px;
+    box-shadow: rgb(148, 148, 148) 30px 5px 20px ;  
+}
+#navList{
+    display: flex;
+    justify-content: left;
+}
+#navList li{
+    list-style-type: none;
+    color: white;
+    margin: 2px; 
+    padding: 2px;
+    position: relative;
+}
+#logo{
+    position: relative;
+    left: 71%;
+    bottom: px;
+    color:white;  
+}
+#navList img{
+    width: 75px;
+    height: 30px;
+    opacity: 1;
+    border-radius: 20%;
+    clip-path: polygon(25% 0%, 100% 0%, 75% 100%, 0% 100%);
+}
+button{
+    margin-left: 10px;
+    border: none;
+    color: oldlace;
+    background-color: crimson;
+    height: 25px;
+}

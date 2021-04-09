@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@500&display=swap');
+
+.popUp{
+    background-color: rgba(52, 52, 52, 0.925);
+    width: 705px;
+    height: 500px;
+    color: white;
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-right: 100px;
+    border-radius: 10px;
+    border: none;
+    animation-name: border;
+    animation-duration: 1s;
+}
+#closeBtn{
+    background-color: rgb(255, 0, 106);
+    position: relative;
+    left: 92%;
+    top: 15px;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    border: none;
+}
+#closeBtn:hover{
+    background-color:rgb(226, 0, 102);
+}
+#main{
+    position: relative;
+    left: 10px;
+}
+#main div{
+    margin-bottom: 8px;
+    font-family:'Josefin Sans', sans-serif;
+}
+
+#nameDiv{
+    text-align: center; 
+    font-family:'Josefin Sans', sans-serif;  
+}
+#nameDiv img{
+    box-shadow: rgb(104, 41, 241) 20px 15px 20px  ;
+}
+#openBtn{
+    position: relative;
+    left: 186px;
+    border: none;
+    bottom: 65px;
+    color: rgb(255, 255, 255);
+    clip-path: polygon(25% 0%, 100% 0%, 75% 100%, 0% 100%);
+    height: 25px;
+    background: linear-gradient( rgb(142, 71, 255), rgb(204, 247, 255)  );
+}
+#main .icons{
+    width: 22px;
+    height: 17px;
+    color:rgb(155, 226, 216);
+}
+
+
+@keyframes border {
+    0% {
+      border: rgb(93, 235, 204) 0px solid;
+    }
+    20% {
+        border: rgb(93, 235, 204) 2px solid;
+    }
+    40%
+    {
+        border: rgb(93, 235, 204) 4px solid;
+    }
+    60%
+    {
+        border: rgb(93, 235, 204) 6px solid;
+    }
+    80%
+    {
+        border: rgb(93, 235, 204) 4px solid;
+    } 90%
+    {
+        box-shadow: rgb(93, 235, 204) 20px 15px 20px ;
+    }
+    99%
+    {
+        box-shadow: rgb(93, 235, 204) 20px 15px 20px ;
+    }
+}
+@media only screen and (max-width: 1255px) {
+    .popUp {
+      width: 350px;
+      margin-right: 500px;
+      margin-left: 600px;
+        }
+       
+  }
+ 
