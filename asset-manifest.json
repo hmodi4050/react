@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/hmodi4050/react.git/static/css/main.c9838350.chunk.css",
+    "main.js": "/hmodi4050/react.git/static/js/main.5dc69a14.chunk.js",
+    "main.js.map": "/hmodi4050/react.git/static/js/main.5dc69a14.chunk.js.map",
+    "runtime-main.js": "/hmodi4050/react.git/static/js/runtime-main.f3bf90bb.js",
+    "runtime-main.js.map": "/hmodi4050/react.git/static/js/runtime-main.f3bf90bb.js.map",
+    "static/js/2.d390fc1d.chunk.js": "/hmodi4050/react.git/static/js/2.d390fc1d.chunk.js",
+    "static/js/2.d390fc1d.chunk.js.map": "/hmodi4050/react.git/static/js/2.d390fc1d.chunk.js.map",
+    "static/js/3.68f588a4.chunk.js": "/hmodi4050/react.git/static/js/3.68f588a4.chunk.js",
+    "static/js/3.68f588a4.chunk.js.map": "/hmodi4050/react.git/static/js/3.68f588a4.chunk.js.map",
+    "index.html": "/hmodi4050/react.git/index.html",
+    "static/css/main.c9838350.chunk.css.map": "/hmodi4050/react.git/static/css/main.c9838350.chunk.css.map",
+    "static/js/2.d390fc1d.chunk.js.LICENSE.txt": "/hmodi4050/react.git/static/js/2.d390fc1d.chunk.js.LICENSE.txt",
+    "static/media/1.d6b5e951.jpg": "/hmodi4050/react.git/static/media/1.d6b5e951.jpg",
+    "static/media/2.9128a2cf.jpg": "/hmodi4050/react.git/static/media/2.9128a2cf.jpg",
+    "static/media/3.a50f3493.jpg": "/hmodi4050/react.git/static/media/3.a50f3493.jpg",
+    "static/media/4.0b1c7da4.jpg": "/hmodi4050/react.git/static/media/4.0b1c7da4.jpg",
+    "static/media/5.1171ea39.jpg": "/hmodi4050/react.git/static/media/5.1171ea39.jpg",
+    "static/media/6.d420551c.jpg": "/hmodi4050/react.git/static/media/6.d420551c.jpg",
+    "static/media/7.9e456317.jpg": "/hmodi4050/react.git/static/media/7.9e456317.jpg",
+    "static/media/8.b5c9075f.jpg": "/hmodi4050/react.git/static/media/8.b5c9075f.jpg",
+    "static/media/avoda.8889a896.png": "/hmodi4050/react.git/static/media/avoda.8889a896.png",
+    "static/media/Login.css": "/hmodi4050/react.git/static/media/background.e2ad37aa.jpg",
+    "static/media/coden.dcd1205f.png": "/hmodi4050/react.git/static/media/coden.dcd1205f.png",
+    "static/media/mrkaz.cebeb2db.png": "/hmodi4050/react.git/static/media/mrkaz.cebeb2db.png",
+    "static/media/Users.css": "/hmodi4050/react.git/static/media/person.a43b0674.jpg",
+    "static/media/tech.99c70a38.png": "/hmodi4050/react.git/static/media/tech.99c70a38.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f3bf90bb.js",
+    "static/js/2.d390fc1d.chunk.js",
+    "static/css/main.c9838350.chunk.css",
+    "static/js/main.5dc69a14.chunk.js"
+  ]
+}
