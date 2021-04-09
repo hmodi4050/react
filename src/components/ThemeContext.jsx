@@ -8,7 +8,6 @@ export function ThemeProvider(props){
     function toggleTheme(){
         setTheme(theme === 'dark'? 'day': 'dark');
     }
-
     return(
         <ThemeContext.Provider value={theme,toggleTheme}>
             {props.children}
